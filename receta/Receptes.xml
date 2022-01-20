@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Receptes.xslt"?>
+
+<recetas>
+    <receta nombre="Arroz con leche">
+        <ingredientes>
+            <ingrediente quant = "1" unitats = "L">leche</ingrediente>
+            <ingrediente quant = "70" unitats = "gr.">azúcar</ingrediente>
+            <ingrediente quant = "2" unitats = "trozos">corteza de naranja</ingrediente>
+            <ingrediente quant = "1/2" unitats = "vaina">vainilla</ingrediente>
+            <ingrediente quant = "100" unitats = "gr.">arroz</ingrediente>
+            <ingrediente quant = "2" unitats = "trozos">corteza de limón</ingrediente>
+            <ingrediente quant = "1" unitats = "rama">canela</ingrediente>
+            <ingrediente quant = "" unitats = "">canela en polvo</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso id="1">Pon en una cazuela la leche, el arroz, una rama de canela y media vaina de vainilla. Añade la corteza de limón y la de naranja. Remueve y deja cocinar, a fuego suave, durante 40-45 minutos. Remueve cada 4-5 minutos para que no se pegue.</paso>
+            <paso id="2">Cuando el arroz con leche adquiera una textura melosa, agrega el azúcar. Remueve y deja cocinar un poco más (5-10 minutos).</paso>
+            <paso id="3">Retira la canela, la vainilla y las cortezas de naranja y de limón. Deja atemperar y repártelo en 4 copas. Espolvorea canela por encima y sirve. </paso>
+            <paso id="4">Decora las copas de arroz con leche con unas hojitas de menta.</paso>
+        </elaboracion>
+    </receta>
+    <receta nombre="Limonada">
+        <ingredientes>
+            <ingrediente quant = "4" unitats = "">limones</ingrediente>
+            <ingrediente quant = "80" unitats = "gr">de azúcar</ingrediente>
+            <ingrediente quant = "500" unitats = "gr">de cubitos de hielo</ingrediente>
+            <ingrediente quant = "500" unitats = "gr">de agua</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso id="1">Lava muy bien un limón y pela su piel, intenta que apenas tenga parte blanca, y ponla en el vaso de la batidora o lo que vayas a utilizar para prepararlo.</paso>
+            <paso id="2">Pela completamente los 4 limones de forma que te quedes solo con los gajos, nada de parte blanca ni piel. Además quítales todas las pepitas que puedas. </paso>
+            <paso id="3">Pon los limones en el vaso de la batidora, y añade la mitad del agua (unos 250 gr). </paso>
+            <paso id="4">Tritúralo todo hasta que quede una pasta. Nosotros hemos utilizado nuestra batidora de vaso y en 30 segundos ya lo teníamos todo bien triturado. </paso>
+            <paso id="5">Vierte la mezcla sobre un colador y cuélala. Hay quien prefiere no colarlo, pero os aseguro que está muchísimo mejor colado ya que siempre queda alguna pepita y restos de piel, y al tomarlo se nota.</paso>
+            <paso id="6">Enjuaga el vaso de la batidora, vierte en él la mezcla ya colada, y añade el resto del agua, los cubitos y el azúcar. Vuelve a triturarlo todo hasta que los cubitos prácticamente se hayan deshecho, y ya la tienes lista.</paso>
+        </elaboracion>
+    </receta>
+    <receta nombre="Pasta de espinacas">
+        <ingredientes>
+            <ingrediente quant = "1,5" unitats = "">huevos</ingrediente>
+            <ingrediente quant = "20" unitats = "gr">de espinacas frescas</ingrediente>
+            <ingrediente quant = "150" unitats = "gr">de harina</ingrediente>
+            <ingrediente quant = "1/2" unitats = "cucharadita">de sal</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso id="1">Vierta una cucharada de agua en una sartén y añada las espinacas. Cocine hasta que se ablanden, durante unos 2 minutos.</paso>
+            <paso id="2">Introduzca los huevos y las espinacas en una batidora. Mezcle durante 45 segundos en la posición 4.</paso>
+            <paso id="3">Acople el gancho amasador al robot de cocina. Añada la harina y la sal al recipiente. Gire la palanca de control de velocidad a la posición 4 y comience a añadir lentamente la mezcla de huevo hasta que la masa se unifique en una bola. Amase durante 4 minutos.</paso>
+            <paso id="4">Envuelva la masa en film transparente y refrigérela durante 1 hora.</paso>
+            <paso id="5">Acople el rodillo liso para pasta al robot de cocina. Establezca el espesor en 1. Gire la palanca de control de velocidad a la posición 2 y estire la masa varias veces para flexibilizarla, volviendo a doblarla después de cada estiramiento. Mueva el botón hasta el ajuste de espesor 2. Introduzca la masa a través de los rodillos para alisarla aún más. Cambie a la posición 3 y vuelva a introducir la masa a través de los rodillos. Asegúrese de enharinar la masa antes de cada pasada.</paso>
+            <paso id="6">Acople el cortador de fettuccine al robot de cocina. Gire la palanca de control de velocidad a la posición 2 e introduzca la pasta en el accesorio. A medida que salga, envuélvala alrededor de la mano para crear nidos si la va a utilizar de inmediato o cuélguela en un colgador de pasta si la va a dejar secar.</paso>
+            <paso id="7">Cocine tallarines de pasta frescos en una gran olla de agua salada hirviendo. Escúrralos.</paso>
+        </elaboracion>
+    </receta>
+    <receta nombre="Pancakes">
+        <ingredientes>
+            <ingrediente quant = "1" unitats = "">huevo</ingrediente>
+            <ingrediente quant = "200" unitats = "mL">de leche</ingrediente>
+            <ingrediente quant = "120" unitats = "gr">de harina</ingrediente>
+            <ingrediente quant = "20" unitats = "gr">de azúcar</ingrediente>
+            <ingrediente quant = "15" unitats = "gr">de levadura en polvo</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso id="1">Mezcla primero los ingredientes secos.</paso>
+            <paso id="2">Después, añade los ingredientes húmedos.</paso>
+            <paso id="3">Mezcla bien, hasta que quede sin grumos.</paso>
+            <paso id="4">Verte pequeñas cantidades en una sartén engrasada con mantequilla.</paso>
+            <paso id="5">Dale la vuelta a la tortita cuando empiece a formar burbujas.</paso>
+        </elaboracion>
+    </receta>    
+    <receta nombre="Huevo frito">
+        <ingredientes>
+            <ingrediente quant = "1" unitats = "">huevo</ingrediente>
+            <ingrediente quant = "1" unitats = "chorro">de aceite</ingrediente>
+            <ingrediente quant = "1" unitats = "pizca">de sal</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso id="1">Echa un chorrito de aceite en la sartén y enciende el fogón.</paso>
+            <paso id="2">Cuando el aceite esté caliente, rompe y echa el huevo. Añade un poco de sal.</paso>
+            <paso id="3">Cuando el huevo esté hecho, sácalo y sírvelo.</paso>
+        </elaboracion>
+    </receta>
+    <receta nombre="Chocolate a la taza casero">
+        <ingredientes>
+            <ingrediente quant = "400" unitats = "gr">de chocolate negro en tableta</ingrediente>
+            <ingrediente quant = "1" unitats = "L">de leche entera</ingrediente>
+            <ingrediente quant = "1" unitats = "pizca">de sal</ingrediente>
+            <ingrediente quant = "50" unitats = "gr">de azúcar</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            <paso id="1">Calentamos la leche en una cazuela. Si vamos a utilizar un chocolate muy potente, en este punto es donde añadimos el toque de azúcar para endulzar la leche. Añadimos el chocolate y un punto de sal. Si lo queremos con un toque aromatizado, sería el momento de añadir la rama de canela o la vainilla.</paso>
+            <paso id="2">Removemos con una cuchara de madera o unas varillas, hasta que el cacao se integre bien mientras se funde. Si no tenemos mucho tiempo, podemos trocear el chocolate previamente con un cuchillo en una tabla. De esta forma aceleramos el proceso.</paso>
+            <paso id="3">Cuando empiece a hervir lo retiramos del fuego y lo dejamos que deje de burbujear. Ya estará listo, pero si quieres que tenga más consistencia, lo puedes poner de nuevo al fuego hasta que comience a hervir otra vez. De nuevo se retira y ya lo puedes servir. De esta forma queda más espeso. Tened cuidado de que no se queme.</paso>
+        </elaboracion>
+    </receta>
+</recetas>
